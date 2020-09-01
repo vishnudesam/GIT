@@ -1,0 +1,19 @@
+
+
+
+GIT Documentation: URL --http://www.vogella.com/tutorials/Git/article.html
+
+
+Git COMMANDS
+
+
+1. git --version
+2. git config --global user.name     ---> Check for the user information
+3. git config --global user.name "<User Name>"
+4. git config --global user.eamil "<email@gmail.com>"
+5. git clone https://github.com/vishnu412/MyFirstGit-Repo.git   ---> clone the git repo 
+6. touch file1
+7. git staus
+8. git add file1
+9. git commit -m"Message"
+
